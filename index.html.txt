@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Curso de Análisis Funcional</title>
+</head>
+<body>
+  <h1>Curso de Análisis Funcional</h1>
+  <p>Bienvenido al curso. Aquí encontrarás notas, solucionarios y exámenes organizados por semanas.</p>
+
+  <h2>Semanas</h2>
+  <ul>
+    <li><a href="semana1/notas.pdf">Semana 1 - Notas</a></li>
+    <li><a href="semana1/ejercicios.pdf">Semana 1 - Ejercicios</a></li>
+    <li><a href="semana1/solucionario.pdf">Semana 1 - Solucionario</a></li>
+  </ul>
+
+  <h2>Exámenes</h2>
+  <ul>
+    <li><a href="examenes/parcial.pdf">Examen Parcial</a></li>
+    <li><a href="examenes/final.pdf">Examen Final</a></li>
+  </ul>
+</body>
+</html>
